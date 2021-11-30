@@ -46,9 +46,11 @@ This application has three main target audiences:
 **Gems/packages:**
 - CanCan - allows users to be assigned special permissions so only admin users can make changes to listings and view certain pages
 - JWSToken - authenticates users
+- Knock - authenticate users
 
 **Third-party APIs:**
-- Google Calendar API (maybe) - so bookings can create Google calendar events for the Admin user
+- Google Calendar API - so bookings can create Google calendar events for the Admin user
+- EmailJS - to send email notifications to admin email for booking requests
 
 **Planning and design:**
 - Trello
