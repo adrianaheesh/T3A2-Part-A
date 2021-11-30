@@ -140,14 +140,14 @@ We'd really love it if we could just bring up a list of all the jumping castles 
 ![All castles mobile](docs/wireframes/for-hire-mobile.png)
 ![All castles desktop](docs/wireframes/for-hire-desktop.png)
 
-
 #### Jumping Castle Cards
 ![Castle card mobile](docs/wireframes/castle-card-mobile.png)
 ![Castle card desktop](docs/wireframes/castle-card-desktop.png)
 ![Admin castle card view](docs/wireframes/admin-view-castle-card-desktop.png)
 
 #### Customer enquiry form
-![Castle enquiry form mobile](docs/wireframes/customer-enquiry-page-desktop.png)
+![Castle enquiry form mobile](docs/wireframes/customer-enquiry-mobile.png)
+![Castle enquiry form desktop](docs/wireframes/customer-enquiry-page-desktop.png)
 </details>
 
 #### Wireframe interation
